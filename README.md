@@ -13,7 +13,7 @@ Create custom buttons and sidebar items in the server panel with support for URL
 
 ## Installation
 
-1. Download the plugin ZIP file from the [Releases](https://github.com/Olivier-D-Pelican-Plugins/Custom-Buttons/releases) page
+1. Download the plugin ZIP file from the [Releases](https://github.com/NerdsCorp/Custom-Buttons/releases) page
 2. Go to your Pelican Panel admin area
 3. Navigate to the Plugins page
 4. Click on "Import file"
