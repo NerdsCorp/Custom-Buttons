@@ -46,3 +46,4 @@ After installation, you can create custom buttons and sidebar items from the adm
 ## Author
 
 Made by **olivierdti**
+Maintained By Kristopher Reeves (Dr.Reeves)
