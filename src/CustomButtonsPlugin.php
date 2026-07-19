@@ -392,12 +392,17 @@ class CustomButtonsPlugin implements HasPluginSettings, Plugin
         }
     }
 
-    public function getSettingsData(): array
+    public function getSettingsFormData(): array
     {
         return [
             'buttons' => $this->loadButtons(),
             'sidebar_items' => $this->loadSidebarItems(),
         ];
+    }
+
+    public function getSettingsData(): array
+    {
+        return $this->getSettingsFormData();
     }
 
     public function saveSettings(array $data): void
